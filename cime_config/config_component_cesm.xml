@@ -326,6 +326,7 @@
     <default_value>$ATM_NCPL</default_value>
     <values match="last">
       <value compset="_MOM6">24</value>
+      <value compset="_MOM6" grid="oi%nwa12">48</value>
       <value compset="_BLOM">24</value>
       <value compset="_DLND.*_CISM\d">1</value>
       <value compset="_NEMO">24</value>
